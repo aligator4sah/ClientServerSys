@@ -1,0 +1,300 @@
+18:18:44,703 I: (ErlangCore.java:63) : Starting CORE Thread[main,6,main]
+18:18:44,788 I: (ErlangCore.java:78) : *** starting Erlide v0.33.3.201612141548 (core=0.32.4.201612141548) (model api=0.32.1.201612141548) *** (GBK) ui
+18:18:44,793 I: (ErlangCore.java:85) : Started CORE
+18:18:44,793 F: (ErlangPlugin.java:89) : Core started
+18:18:49,994 F: (ErlangHostnameRetriever.java:42) : Erlang long hostname: QH-20150713WONW.net.pitt.edu
+18:19:02,548 F: (ErlangHostnameRetriever.java:42) : Erlang short hostname: QH-20150713WONW
+18:19:02,918 F: (HostnameChecker.java:205) : Detected:: 'QH-20150713WONW' && '127.0.0.1'
+18:19:03,002 F: (BackendActivator.java:25) : Backend plugin started
+18:19:03,080 I: (ErlideUIPlugin.java:121) : Starting UI Thread[main,6,main]
+18:19:03,118 F: (ModelActivator.java:19) : Starting Erlang model api
+18:19:03,153 F: (BackendFactory.java:40) : Create ide backend 19.2.0
+18:19:03,153 F: (BackendFactory.java:54) : Create backend 5c39b_Administrator_debef1_erlide
+18:19:03,250 F: (OtpNodeProxy.java:306) : Runtime 5c39b_Administrator_debef1_erlide@127.0.0.1 starting
+18:19:03,250 F: (OtpNodeProxy.java:426) : START node :> ["D:\Program Files\erl8.2/bin/erl", -name, 5c39b_Administrator_debef1_erlide@127.0.0.1, -setcookie, erlide] *** E:\workspace
+18:19:03,297 F: (OtpNodeProxy.java:213) : 5c39b_Administrator_debef1_erlide@127.0.0.1: waiting connection to peer... 
+18:19:03,841 F: (OtpNodeProxy.java:220) : connected!
+18:19:04,497 F: (ModelActivator.java:30) : Started model api
+18:19:04,520 I: (ErlideUIPlugin.java:142) : Started UI
+18:19:04,618 F: (OtpNodeProxy.java:311) : Runtime 5c39b_Administrator_debef1_erlide@127.0.0.1 running
+18:19:04,621 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_1debf62@127.0.0.1'}
+18:19:04,622 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+18:22:41,829 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:22:41,830 F: (BackendFactory.java:47) : Create build backend 19
+18:22:41,831 F: (BackendFactory.java:54) : Create backend 19_5c39b_Administrator_e21527
+18:22:41,832 F: (OtpNodeProxy.java:306) : Runtime 19_5c39b_Administrator_e21527@127.0.0.1 starting
+18:22:41,836 F: (OtpNodeProxy.java:426) : START node :> ["D:\Program Files\erl8.2/bin/erl", -name, 19_5c39b_Administrator_e21527@127.0.0.1, -setcookie, erlide] *** E:\workspace
+18:22:41,857 F: (OtpNodeProxy.java:213) : 19_5c39b_Administrator_e21527@127.0.0.1: waiting connection to peer... 
+18:22:42,688 F: (OtpNodeProxy.java:220) : connected!
+18:22:42,789 F: (OtpNodeProxy.java:311) : Runtime 19_5c39b_Administrator_e21527@127.0.0.1 running
+18:22:42,927 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_1e2153d@127.0.0.1'}
+18:22:42,928 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+18:24:17,175 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:25:01,780 F: (ErlParser.java:342) : unknown: other
+18:25:02,839 F: (ErlParser.java:342) : unknown: other
+18:25:05,994 F: (ErlParser.java:342) : unknown: other
+18:25:23,826 F: (ErlParser.java:342) : unknown: other
+18:25:24,938 F: (ErlParser.java:342) : unknown: other
+18:25:26,288 F: (ErlParser.java:342) : unknown: other
+18:25:27,571 F: (ErlParser.java:342) : unknown: other
+18:25:29,692 F: (ErlParser.java:342) : unknown: other
+18:25:30,610 F: (ErlParser.java:342) : unknown: other
+18:25:34,489 F: (ErlParser.java:342) : unknown: other
+18:29:51,973 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:30:30,013 F: (ErlParser.java:342) : unknown: other
+18:30:31,194 F: (ErlParser.java:342) : unknown: other
+18:30:32,954 F: (ErlParser.java:342) : unknown: other
+18:30:34,053 F: (ErlParser.java:342) : unknown: other
+18:30:34,666 F: (ErlParser.java:342) : unknown: other
+18:34:07,387 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:35:08,769 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:39:15,813 F: (ErlParser.java:342) : unknown: other
+18:39:17,693 F: (ErlParser.java:342) : unknown: other
+18:39:20,060 F: (ErlParser.java:342) : unknown: other
+18:39:20,586 F: (ErlParser.java:342) : unknown: other
+18:39:21,708 F: (ErlParser.java:342) : unknown: other
+18:40:23,232 F: (AbstractErlContentAssistProcessor.java:158) : no results
+18:43:33,020 F: (AbstractErlContentAssistProcessor.java:158) : no results
+18:45:51,574 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:49:46,457 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:50:40,362 F: (ErlParser.java:342) : unknown: other
+18:53:41,691 F: (ErlParser.java:342) : unknown: other
+18:53:49,506 F: (ErlParser.java:342) : unknown: other
+18:53:51,833 F: (ErlParser.java:342) : unknown: other
+18:53:51,947 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:54:10,390 F: (ErlParser.java:342) : unknown: other
+18:54:12,851 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:55:19,015 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/simple_socket_server.erl]
+18:55:19,232 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+18:55:19,233 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+18:55:19,236 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+18:55:19,237 F: (OtpNodeProxy.java:426) : START node :> ["D:\Program Files\erl8.2/bin/erl", -sname, 04SocketProgramming@QH-20150713WONW, -setcookie, erlide] *** E:\eclipse
+18:55:19,254 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+18:55:19,684 F: (OtpNodeProxy.java:220) : connected!
+18:55:19,789 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+18:55:19,938 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_1fff351@QH-20150713WONW'}
+18:55:19,939 F: (LogEventHandler.java:27) : info: {"Start monitor process: ",10000000,50000000}
+18:55:20,288 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@80fece
+18:55:20,441 F: (ErlangLaunchDelegate.java:108) : Started erts: 04SocketProgramming >> 04SocketProgramming
+18:55:52,850 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:55:52,959 F: (BuilderHelper.java:587) : :: loading simple_socket_server in 04SocketProgramming@QH-20150713WONW
+18:56:03,031 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/simple_socket_server.erl]
+18:56:03,101 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+18:56:03,101 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+18:56:03,102 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+18:56:03,109 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+18:56:03,119 F: (OtpNodeProxy.java:220) : connected!
+18:56:03,330 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+18:56:03,332 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_2009ea1@QH-20150713WONW'}
+18:56:03,721 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@6e91f3
+18:57:01,359 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:57:08,892 F: (ErlParser.java:342) : unknown: other
+18:58:21,073 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+18:58:21,183 F: (BuilderHelper.java:587) : :: loading simple_socket_server in 04SocketProgramming@QH-20150713WONW
+18:58:21,226 F: (BuilderHelper.java:587) : :: loading simple_socket_server in 04SocketProgramming@QH-20150713WONW
+18:58:30,081 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/simple_socket_server.erl]
+18:58:30,163 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+18:58:30,163 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+18:58:30,164 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+18:58:30,177 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+18:58:30,204 F: (OtpNodeProxy.java:220) : connected!
+18:58:30,416 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+18:58:30,417 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_202dd1c@QH-20150713WONW'}
+18:58:30,805 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@18ebaba
+19:17:54,766 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:17:54,868 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:17:54,912 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:17:54,961 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:19:13,692 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:19:34,878 F: (ErlParser.java:342) : unknown: other
+19:19:37,132 F: (ErlParser.java:342) : unknown: other
+19:19:38,426 F: (ErlParser.java:342) : unknown: other
+19:20:55,433 F: (ErlParser.java:342) : unknown: other
+19:20:56,333 F: (ErlParser.java:342) : unknown: other
+19:20:57,757 F: (ErlParser.java:342) : unknown: other
+19:23:32,361 F: (ErlParser.java:342) : unknown: other
+19:24:29,016 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:24:40,467 F: (ErlParser.java:342) : unknown: other
+19:29:03,891 F: (ErlParser.java:342) : unknown: other
+19:29:43,000 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:30:49,926 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:30:58,891 F: (ErlParser.java:342) : unknown: other
+19:30:59,416 F: (ErlParser.java:342) : unknown: other
+19:31:00,694 F: (ErlParser.java:342) : unknown: other
+19:37:21,288 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:37:43,034 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:37:43,136 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:37:43,187 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:37:43,233 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:37:58,976 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/udp_socket.erl]
+19:37:59,050 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+19:37:59,051 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+19:37:59,051 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+19:37:59,059 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+19:37:59,069 F: (OtpNodeProxy.java:220) : connected!
+19:37:59,291 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+19:37:59,292 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_227028f@QH-20150713WONW'}
+19:37:59,672 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@1d8f5b5
+19:44:04,167 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:44:04,240 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:44:04,283 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:44:04,329 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:44:04,374 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:47:13,494 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:47:23,525 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:47:37,429 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:47:42,581 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:47:42,661 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:47:42,712 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:47:42,761 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:47:42,822 F: (BuilderHelper.java:587) : :: loading udp_client in 04SocketProgramming@QH-20150713WONW
+19:47:57,657 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/udp_client.erl]
+19:47:57,726 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+19:47:57,726 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+19:47:57,727 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+19:47:57,735 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+19:47:57,747 F: (OtpNodeProxy.java:220) : connected!
+19:47:57,849 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+19:47:58,078 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_2302523@QH-20150713WONW'}
+19:47:58,349 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@1df68a2
+19:51:40,867 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+19:51:40,951 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:51:40,998 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:51:41,049 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:51:41,108 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+19:51:41,157 F: (BuilderHelper.java:587) : :: loading udp_socket in 04SocketProgramming@QH-20150713WONW
+20:20:07,236 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:20:07,336 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:20:07,383 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:20:07,429 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:20:07,477 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:20:07,523 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:20:38,307 F: (ErlParser.java:342) : unknown: other
+20:22:31,934 F: (ErlParser.java:342) : unknown: other
+20:22:32,864 F: (ErlParser.java:342) : unknown: other
+20:22:35,730 F: (ErlParser.java:342) : unknown: other
+20:26:36,565 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:26:36,642 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:26:36,694 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:26:36,778 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:26:36,825 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:26:36,893 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:26:46,566 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/ets_test.erl]
+20:26:46,641 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+20:26:46,641 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+20:26:46,643 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+20:26:46,652 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+20:26:46,663 F: (OtpNodeProxy.java:220) : connected!
+20:26:46,766 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+20:26:46,883 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_253ae78@QH-20150713WONW'}
+20:26:47,266 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@19b24f
+20:27:10,636 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:27:10,725 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:27:10,782 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:27:10,831 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:27:10,877 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:27:10,925 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:27:10,974 F: (BuilderHelper.java:587) : :: loading ets_test in 04SocketProgramming@QH-20150713WONW
+20:27:17,018 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/ets_test.erl]
+20:27:17,080 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+20:27:17,081 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+20:27:17,081 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+20:27:17,089 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+20:27:17,099 F: (OtpNodeProxy.java:220) : connected!
+20:27:17,311 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+20:27:17,312 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_254255d@QH-20150713WONW'}
+20:27:17,702 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@101e7dd
+20:40:01,018 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:40:01,125 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:40:01,169 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:40:01,212 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:40:01,262 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:40:01,323 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:40:01,368 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:40:01,416 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:40:35,172 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:40:38,746 F: (ErlParser.java:342) : unknown: other
+20:41:51,227 F: (ErlParser.java:342) : unknown: other
+20:41:51,822 F: (ErlParser.java:342) : unknown: other
+20:41:52,616 F: (ErlParser.java:342) : unknown: other
+20:41:53,956 F: (ErlParser.java:342) : unknown: other
+20:42:43,492 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:42:53,912 F: (ErlParser.java:342) : unknown: other
+20:42:57,412 F: (ErlParser.java:342) : unknown: other
+20:42:58,823 F: (ErlParser.java:342) : unknown: other
+20:42:59,537 F: (ErlParser.java:342) : unknown: other
+20:43:02,856 F: (ErlParser.java:342) : unknown: other
+20:43:03,518 F: (ErlParser.java:342) : unknown: other
+20:43:04,116 F: (ErlParser.java:342) : unknown: other
+20:43:04,731 F: (ErlParser.java:342) : unknown: other
+20:43:31,405 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:43:34,487 F: (ErlParser.java:342) : unknown: other
+20:43:35,510 F: (ErlParser.java:342) : unknown: other
+20:44:46,472 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:45:04,045 F: (ErlParser.java:342) : unknown: other
+20:46:44,183 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:48:12,262 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:48:12,353 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:48:12,402 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:48:12,460 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:48:12,509 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:48:12,559 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:48:12,610 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:48:12,659 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:48:59,964 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/kvs.erl]
+20:49:00,042 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+20:49:00,043 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+20:49:00,043 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+20:49:00,051 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+20:49:00,063 F: (OtpNodeProxy.java:220) : connected!
+20:49:00,342 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+20:49:00,343 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_268070f@QH-20150713WONW'}
+20:49:00,665 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@1195414
+20:49:50,687 F: (InternalBuilder.java:203) : Will compile 1 resource(s)
+20:49:50,786 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:50,835 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:50,881 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:50,932 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:50,981 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:51,032 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:51,083 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:51,144 F: (BuilderHelper.java:587) : :: loading kvs in 04SocketProgramming@QH-20150713WONW
+20:49:58,888 F: (ErlangNodeLaunchShortcut.java:59) : ** Launch:: [L/04SocketProgramming/src/kvs.erl]
+20:49:58,948 F: (BackendManager.java:90) : create execution backend 04SocketProgramming
+20:49:58,949 F: (BackendFactory.java:54) : Create backend 04SocketProgramming
+20:49:58,950 F: (OtpNodeProxy.java:306) : Runtime 04SocketProgramming@QH-20150713WONW starting
+20:49:58,957 F: (OtpNodeProxy.java:213) : 04SocketProgramming@QH-20150713WONW: waiting connection to peer... 
+20:49:58,969 F: (OtpNodeProxy.java:220) : connected!
+20:49:59,070 F: (OtpNodeProxy.java:311) : Runtime 04SocketProgramming@QH-20150713WONW running
+20:49:59,184 F: (LogEventHandler.java:27) : info: {"Monitoring java node",'jerlide_268ed2a@QH-20150713WONW'}
+20:49:59,571 F: (ErlConsoleManager.java:51) : console ADDED to org.erlide.backend.api.BackendData@124a30
+20:53:49,963 F: (OtpNodeProxy.java:316) : Runtime 19_5c39b_Administrator_e21527@127.0.0.1 stopping
+20:53:49,973 F: (OtpNodeProxy.java:316) : Runtime 5c39b_Administrator_debef1_erlide@127.0.0.1 stopping
+20:53:50,000 F: (OtpNodeProxy.java:272) : Runtime 19_5c39b_Administrator_e21527@127.0.0.1 terminated
+20:53:50,000 F: (OtpNodeProxy.java:272) : Runtime 5c39b_Administrator_debef1_erlide@127.0.0.1 terminated
+20:53:50,026 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,077 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,099 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+20:53:50,129 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,179 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,199 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+20:53:50,199 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+20:53:50,228 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,281 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,306 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+20:53:50,306 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+20:53:50,341 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,400 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,402 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+20:53:50,404 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+20:53:50,451 F: (OtpNodeProxy.java:316) : Runtime 04SocketProgramming@QH-20150713WONW stopping
+20:53:50,505 W: (OtpNodeProxy.java:283) : Runtime 04SocketProgramming@QH-20150713WONW crashed, exit code: 1.
+20:53:50,522 F: (OtpNodeProxy.java:272) : Runtime 04SocketProgramming@QH-20150713WONW terminated
+
+--------------------------------------------------------------
+*** RpcMonitor statistics
+ - 9679 calls
+
+RpcMonitor was not enabled.
+
+Use -Derlide.rpcmonitor to enable it.
